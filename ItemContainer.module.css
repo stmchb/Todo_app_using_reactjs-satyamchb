@@ -1,0 +1,33 @@
+.input_box{
+  height: 35px;
+  border-radius: 10px;
+  margin: 10px;
+  max-width: 162px;
+  font-size: 15px;
+  }
+
+  .date_box{
+    height: 35px;
+    border-radius: 10px;
+    max-width: 162px;
+    font-size: 15px;
+  }
+
+.container{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-right: 60px;
+  margin-left:40px;
+  align-items: flex-start;
+}
+
+.del_button{
+  padding: 15px 30px;
+  border: none;
+  font-family: Arial;
+  background-color:rgb(99, 0, 0);
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}

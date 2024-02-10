@@ -1,0 +1,22 @@
+.input_box{
+height: 35px;
+border-radius: 10px;
+margin: 10px;
+max-width: 162px;
+font-size: 15px;
+}
+
+.main_container{
+display:flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+.date_box{
+  height: 35px;
+  border-radius: 10px;
+  max-width: 162px;
+  font-size: 15px;
+}
